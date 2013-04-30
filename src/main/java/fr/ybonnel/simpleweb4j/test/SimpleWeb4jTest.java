@@ -23,9 +23,9 @@ import java.util.Random;
 public class SimpleWeb4jTest extends PhantomJsTest {
 
     private int port;
-    private Random random = new Random();
 
     public SimpleWeb4jTest() {
+        Random random = new Random();
         port = Integer.getInteger("test.http.port", random.nextInt(10000) + 10000);
     }
 
