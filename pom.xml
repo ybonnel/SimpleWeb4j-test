@@ -29,9 +29,9 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git@github.com:ybonnel/SimpleWeb4j.git</connection>
-        <developerConnection>scm:git:git@github.com:ybonnel/SimpleWeb4j.git</developerConnection>
-        <url>scm:git:git@github.com:ybonnel/SimpleWeb4j.git</url>
+        <connection>scm:git:git@github.com:ybonnel/SimpleWeb4j-test.git</connection>
+        <developerConnection>scm:git:git@github.com:ybonnel/SimpleWeb4j-test.git</developerConnection>
+        <url>scm:git:git@github.com:ybonnel/SimpleWeb4j-test.git</url>
     </scm>
     <developers>
         <developer>
