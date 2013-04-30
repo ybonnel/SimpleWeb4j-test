@@ -12,8 +12,11 @@
     <url>https://ybonnel.github.com/SimpleWeb4j-test</url>
     <description>Test helper for SimpleWeb4j.</description>
 
-
-
+    <parent>
+        <groupId>org.sonatype.oss</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>7</version>
+    </parent>
 
     <properties>
         <project.java.version>1.7</project.java.version>
